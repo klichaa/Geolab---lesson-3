@@ -1,0 +1,120 @@
+/*base styles*/
+.d-inline-block{
+	display: inline-block;
+}
+.v-a-middle{
+	vertical-align: middle;
+}
+.v-a-top{
+	vertical-align: top;
+}
+.roboto{
+	font-family: 'Roboto', sans-serif;
+}
+.roboto-r{
+    font-family: 'Roboto';
+
+}
+/*index.html*/
+.header{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.logo{
+	margin-right: 50px;
+}
+.nav-a{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #3D58A6;
+	font-size: 22px;
+}
+.active{
+	color: #EE4036;
+}
+.center{
+	margin-right: 30px;
+	margin-left: 18px;
+}
+.div-ban{
+	width: 1170px;
+	margin: 77px auto 117px auto;
+}
+.box1{
+	width: 570px;
+	background: #F2F2F2;
+	padding: 10px 15px 24px 27px;
+}
+.box1 img{
+	margin-top: 12px;
+	margin-right: 60px;
+}
+.box1 div{
+	width: 355px;
+}
+.box1 div{
+	font-size: 20px;
+}
+.box1 h4{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.box-head{
+	margin-bottom: 31px;
+	font-size: 24px;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.facebook{
+	margin-right: 66px;
+}
+.footer-div{
+	width: 1170px;
+	margin: 68px auto 0 auto;
+}
+/*news.html*/
+.date{
+	width: 56px;
+	height: 56px;
+	background: #3D58A6;
+	color: #FFFFFF;
+	font-size: 48px;
+}
+.date-p{
+	color: #3D58A6;
+	font-size: 22px;
+	margin-bottom: 18px;
+}
+.article{
+	margin: 21px 0 34px 0;
+}
+.sec-art{
+	margin-left: 30px;
+	margin-top: 40px;
+}
+.sec-art h5{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 20px;
+}
+.p{
+	margin-left: 40px;
+	width: 930px;
+}
+span{
+	color: #808080;
+}
+.map{
+	margin-left: 44px;
+}
+.contact{
+	background: #E6E6E6;
+	padding: 51px 90px 55px 97px;
+	margin-top: 25px;
+}
+.facebook::after{
+	content: div;
+	width: 10px;
+	height: 10px;
+	background: red;
+}
